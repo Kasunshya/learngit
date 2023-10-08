@@ -1,0 +1,18 @@
+Group Purchasing
+Group purchasing is a process that allows several individuals or businesses to come together for the 
+purpose of purchasing various types of goods and services at discounted rates.
+Why Group Purchasing?
+ Normally, companies pay less per unit when buying more units.
+ Electronic aggregators find individuals or small/medium enterprises who want to buy the 
+same product, aggregate their small orders and then negotiate for the best deal.
+E-Marketplace
+An E-marketplace is an internet location owned by a company or consortium which allows other 
+companies or individuals to get new suppliers or buyers for their products. 
+Most of the e-marketplaces provide two basic functions: 1) they allow companies to obtain new 
+suppliers or buyers for company products, or 2) developing streamlined trading networks that make 
+negotiating, settlement, and delivery more efficient.
+Main Components:
+ Front end: The section of e-seller’s business processes through which customers interact 
+(includes electronic catalogs, shopping cart, sellers portal, payment gateway, etc.)
+ Back end: The activities that support online order taking (includes inventory management, raw 
+material purchasing, payment processing, delivery)
